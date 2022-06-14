@@ -1,2 +1,2 @@
 *.kind linguist-language=kind
-*.kind linguist-detectable
+*.kind linguist-detectable=true
